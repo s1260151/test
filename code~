@@ -1,0 +1,5 @@
+std1dc23:test s1260151[81]$ git add .
+std1dc23:test s1260151[82]$ git commit -m "Add hello to test file"[master 8c37fa9] Add hello to test file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+std1dc23:test s1260151[83]$ git push origin masterUsername for 'https://github.com': s1260151
+Password for 'https://s1260151@github.com': 
